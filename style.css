@@ -1,0 +1,19 @@
+body{
+    margin: 10px;
+}
+section{
+    background-color: black;
+    width: 90%;
+    color: white;
+    padding: 10px; 
+}
+#submit{
+    cursor: pointer;
+}
+ul li{
+    list-style: none;
+}
+img{
+    width: 90%;
+
+}
